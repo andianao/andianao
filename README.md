@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **andianao/andianao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hey, I'm andianao!
+
+🧠 I'm a beginner web developer and cybersecurity enthusiast from Tanzania.
+
+## 🚀 What I'm Learning
+- 🖥️ Front-End Web Dev (HTML, CSS, JavaScript)
+- 🔐 Cybersecurity (CTFs, TryHackMe, HackTheBox)
+- 🛠️ Scripting and automation (Bash, coming soon: Rust & Python)
+
+## 📚 Current Focus
+- Building simple static web pages
+- Solving beginner-level CTFs (THM + HTB)
+- Documenting everything I learn
+- Building small tools and scripts as I grow
+
+## 🧰 My Projects
+<!-- 
+- 🔧 `auto-ctf-lab` – A Bash script to spin up vulnerable labs and log progress
+- 📘 `html-css-js-projects` – Mini frontend projects I'm building
+-->
+- 🧾 `tryhackme-writeups` – Notes and walkthroughs of rooms I've completed
+
+## 🌱 Roadmap
+- ✅ Learn HTML, CSS, JS basics
+- 🔄 Complete Try Hack Me’s free path
+- 🔄 Complete Hack The Box’s free path
+- ⚡ Build custom reverse shells in Rust
+- 🎯 Get into bug bounty and red teaming
+
+## 📫 Connect With Me
+<!-- 
+- Twitter: [@massimohacks](https://twitter.com/massimohacks)
+- Discord: 
+- Medium:
+- Dev:
+- Youtube:
+- Twitch:
+- FaceBook:
+- Instagram:
+- TikTok:
+-->
+- HackMD: [hackmd.io/@andianao](https://hackmd.io/@andianao)
+
+“Stay curious. Break things. Fix them better.” – andianao
+
+Let's build cool stuff. Feel free to fork, explore, or reach out. 🚀
