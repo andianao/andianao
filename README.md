@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hey, I'm andianao!
 
-🧠 I'm a beginner web developer and cybersecurity enthusiast from Tanzania.
+🧠 I'm a very beginner web developer and cybersecurity enthusiast from Tanzania.
 
 ## 🚀 What I'm Learning
 - 🖥️ Front-End Web Dev (HTML, CSS, JavaScript)
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## 📚 Current Focus
 - Building simple static web pages
-- Solving beginner-level CTFs (THM + HTB)
+- Solving beginner-level CTFs (THM + HTB + OverTheWire, comming soon: PicoCTF)
 - Documenting everything I learn
 - Building small tools and scripts as I grow
 
@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 - 🔧 `auto-ctf-lab` – A Bash script to spin up vulnerable labs and log progress
 - 📘 `html-css-js-projects` – Mini frontend projects I'm building
 -->
-- 🧾 `tryhackme-writeups` – Notes and walkthroughs of rooms I've completed
+- 🧾 `OverTheWire-writeups` – Notes and walkthroughs of rooms I've completed
+- 🧾 `TryHackMe-writeups` – Notes and walkthroughs of rooms I've completed (Coming Soon)
+- 🧾 `HackTheBox-writeups` – Notes and walkthroughs of rooms I've completed (Coming Soon)
 
 ## 🌱 Roadmap
 - ✅ Learn HTML, CSS, JS basics
