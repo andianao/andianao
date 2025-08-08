@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## 📫 Connect With Me
 <!-- 
 - Twitter: [@andianao](https://twitter.com/andianao)
-- Discord: [@andianao](https://discord.com/andianao)
+
 - Medium: [@andianao](https://medium.com/andianao)
 - Dev: [@andianao](https://dev.com/andianao)
 - Youtube: [@andianao](https://youtube.com/andianao)
@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 - Instagram: [@andianao](https://instagram.com/andianao)
 - TikTok: [@andianao](https://tiktok.com/andianao)
 -->
+- Discord: [@andianao](https://discord.com/andianao)
 - HackMD: [hackmd.io/@andianao](https://hackmd.io/@andianao)
 
 “Stay curious. Break things. Fix them better.” – andianao
