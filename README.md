@@ -1,4 +1,3 @@
-
 <!--
 
 Here are some ideas to get you started:
@@ -46,15 +45,15 @@ Here are some ideas to get you started:
 
 ## 📫 Connect With Me
 <!-- 
-- Twitter: [@massimohacks](https://twitter.com/massimohacks)
-- Discord: 
-- Medium:
-- Dev:
-- Youtube:
-- Twitch:
-- FaceBook:
-- Instagram:
-- TikTok:
+- Twitter: [@andianao](https://twitter.com/andianao)
+- Discord: [@andianao](https://discord.com/andianao)
+- Medium: [@andianao](https://medium.com/andianao)
+- Dev: [@andianao](https://dev.com/andianao)
+- Youtube: [@andianao](https://youtube.com/andianao)
+- Twitch: [@andianao](https://twitch.com/andianao)
+- FaceBook: [@andianao](https://facebook.com/andianao)
+- Instagram: [@andianao](https://instagram.com/andianao)
+- TikTok: [@andianao](https://tiktok.com/andianao)
 -->
 - HackMD: [hackmd.io/@andianao](https://hackmd.io/@andianao)
 
