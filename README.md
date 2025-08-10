@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 ## 🚀 What I'm Learning
 - 🖥️ Front-End Web Dev (HTML, CSS, JavaScript)
-- 🔐 Cybersecurity (CTFs, TryHackMe, HackTheBox)
+- 🔐 Cybersecurity (CTFs, TryHackMe, HackTheBox, OverTheWire)
 - 🛠️ Scripting and automation (Bash, coming soon: Rust & Python)
 
 ## 📚 Current Focus
 - Building simple static web pages
 - Solving beginner-level CTFs (THM + HTB + OverTheWire, comming soon: PicoCTF)
-- Documenting everything I learn
+- Documenting everything I learn in a simple way
 - Building small tools and scripts as I grow
 
 ## 🧰 My Projects
