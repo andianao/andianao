@@ -2,7 +2,7 @@
 
 🧠 I'm a very beginner web developer and cybersecurity enthusiast from Tanzania.
 
-## 🚀 What I'm Learning
+## 🚀 What I'm Learning so far
 - 🖥️ Front-End Web Dev (HTML, CSS, JavaScript)
 - 🔐 Cybersecurity (CTFs, TryHackMe, HackTheBox, OverTheWire)
 - 🛠️ Scripting and automation (Bash, coming soon: Rust & Python)
@@ -45,6 +45,6 @@
 - Discord: [@andianao](https://discord.com/andianao)
 - HackMD: [hackmd.io/@andianao](https://hackmd.io/@andianao)
 
-“Stay curious. Break things. Fix them better.” – andianao
+“Stay curious while, Building things, Breaking things, Fixing them better.” – andianao
 
 Let's build cool stuff. Feel free to fork, explore, or reach out. 🚀
