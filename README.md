@@ -1,4 +1,4 @@
-# 👋 Hey, I'm andianao!
+# 👋 Hey, I'm andianao.
 
 🧠 I'm a very beginner front-end web developer and cybersecurity enthusiast (Offensive Oriented) from Tanzania.
 
