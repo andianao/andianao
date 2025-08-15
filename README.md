@@ -12,6 +12,7 @@
 - Solving beginner-level CTFs (THM + HTB + OverTheWire, comming soon: PicoCTF)
 - Documenting everything I learn in a simple way
 - Building small tools and scripts as I grow
+- Relate building skills with compromising skills and fixing skills in order to get overall understanding of how stuffs work.
 
 ## 🧰 My Projects
 <!-- 
