@@ -26,6 +26,7 @@
 
 ## 🌱 Roadmap
 - ✅ Learn HTML, CSS, JS basics
+- ✅ Get into MERN Stack
 - 🔄 Complete Try Hack Me’s free path
 - 🔄 Complete Hack The Box’s free path
 - ⚡ Build custom reverse shells in Rust
