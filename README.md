@@ -2,7 +2,7 @@
 
 🧠 I'm a very beginner front-end web developer and cybersecurity enthusiast (Offensive Oriented) from Tanzania.
 
-## 🚀 What I'm Learning so far.
+## 🚀 What I'm Learning so far
 - 🖥️ Front-End Web Dev (HTML, CSS, JavaScript)
 - 🔐 Cybersecurity (CTFs, TryHackMe, HackTheBox, OverTheWire)
 - 🛠️ Scripting and automation (Bash, coming soon: Rust & Python)
