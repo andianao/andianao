@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm andianao.
 
-🧠 I'm a very beginner front-end web developer and cybersecurity enthusiast (Offensive Oriented) from Tanzania.
+🧠 I'm a very beginner front-end web developer and cybersecurity enthusiast (Offensive Oriented) from Tanzania. Looking foward to become a computer engineer.
 
 ## 🚀 What I'm Learning so far
 - 🖥️ Front-End Web Dev (HTML, CSS, JavaScript)
