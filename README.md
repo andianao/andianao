@@ -20,7 +20,7 @@
 - 📘 `html-css-js-projects` – Mini frontend projects I'm building
 -->
 - 🧾 `OverTheWire-writeups` – Notes and walkthroughs of rooms I've completed
-- 🧾 `TryHackMe-writeups` – Notes and walkthroughs of rooms I've completed (Coming Soon)
+- 🧾 `TryHackMe-writeups` – Notes and walkthroughs of rooms I've completed (Coming Very Soon)
 - 🧾 `PicoCTF-writeups` – Notes and walkthroughs of rooms I've completed (Coming Soon)
 - 🧾 `HackTheBox-writeups` – Notes and walkthroughs of rooms I've completed (Coming Soon)
 
