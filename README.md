@@ -8,7 +8,7 @@
 - 🛠️ Scripting and automation (Bash, coming soon: Rust & Python)
 
 ## 📚 Current Focus
-- Building simple static web pages
+- Building simple static web pages later on dynamic
 - Solving beginner-level CTFs (THM + HTB + OverTheWire, comming soon: PicoCTF)
 - Documenting everything I learn in a simple way
 - Building small tools and scripts as I grow
