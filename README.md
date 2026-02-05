@@ -29,6 +29,7 @@
 - ✅ Get into MERN Stack
 - 🔄 Complete Try Hack Me’s free path
 - 🔄 Complete Hack The Box’s free path
+- 🔄 Complete CTFZone's free path 
 - ⚡ Build custom reverse shells in Rust and Python
 - 🎯 Get into bug bounty and red teaming
 
