@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm andianao.
 
-🧠 I'm a very beginner front-end web developer, aspiring systems designer and cybersecurity enthusiast (Offensive Oriented) from Tanzania. Looking foward to become a computer engineer
+🧠 I'm a very beginner front-end web developer, aspiring systems designer and cybersecurity enthusiast (Offensive Oriented) from Tanzania. Currently i'm taking a major in computer engineering.
 
 ## 🚀 What I'm Learning so far
 - 🖥️ Front-End Web Dev (HTML, CSS, JavaScript)
